@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdul Rasyid
+# AbdulRasyid
 
 **IoT Developer · System Administrator · Self-Hosting Enthusiast**
 
@@ -60,6 +60,13 @@ Saya terbuka untuk kolaborasi di proyek IoT, otomasi rumah, self-hosting, atau a
 ![Proxmox](https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Networking**
+
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/Mosquitto-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 
 **Tools**
 
